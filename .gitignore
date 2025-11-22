@@ -1,0 +1,16 @@
+# Ignorar a pasta de compilação do Maven
+target/
+
+# Ignorar arquivos de configuração do VS Code/IDE
+.vscode/
+.idea/
+*.iml
+
+# Ignorar os arquivos de banco de dados locais (Gerados ao rodar)
+*.db
+*.ser
+*.log
+
+# Ignorar arquivos temporários do sistema
+Thumbs.db
+.DS_Store
